@@ -1,0 +1,12 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "version": "0.0.1",
+    "title": "Users Service",
+    "description": "Swagger spec for documenting the users service"
+  },
+  "host": "0.0.0.0",
+  "schemes": ["http"],
+  "paths": {},
+  "definitions": {}
+}
